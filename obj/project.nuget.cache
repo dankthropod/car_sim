@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTYkmu2eTwBrnZ4fpznphNzuQfzT5cHnLTcMCPLC82WAilsLRc0r2dwpyZBvUpBvUu71phxeK6tlV3BD/6Zf2Q==",
+  "success": true,
+  "projectFilePath": "/home/runner/car-sim/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.platforms/3.1.4/microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/scottplot/4.1.63/scottplot.4.1.63.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.drawing.common/4.7.2/system.drawing.common.4.7.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
