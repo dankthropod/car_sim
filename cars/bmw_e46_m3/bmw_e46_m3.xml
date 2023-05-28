@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car>
+	<engine>
+		<name>S54</name>
+		<rev_limiter>6500</rev_limiter>
+	</engine>
+	<transmission>
+		<gears>
+			<gear>3.89</gear> 	<!--reverse comes first-->
+			<gear>4.2</gear>	<!--1-->
+			<gear>2.49</gear>	<!--2-->
+			<gear>1.66</gear>	<!--3-->
+			<gear>1.24</gear>	<!--4-->
+			<gear>1</gear>		<!--5-->
+		</gears>
+	</transmission>
+	<differential>
+		<ratio>3.62</ratio>
+	</differential>
+</car>
